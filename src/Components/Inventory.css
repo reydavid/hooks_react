@@ -1,0 +1,14 @@
+.box {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    border:2px solid blue;
+    border-radius: 50%;
+    font-family: monospace;
+}
+
+.bin {
+    display:flex;
+    flex-direction:row;
+}
